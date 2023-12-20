@@ -1,0 +1,57 @@
+<!DOCTYPE HTML>
+	<html>
+		<head>
+		  <link rel="stylesheet" href="motd.css">
+		    <style>
+			  
+			  
+            body {
+             background-image: url('https://images.pexels.com/photos/159020/sunset-sky-afterglow-evening-sky-159020.jpeg');
+             background-repeat: no-repeat;
+             background-attachment: fixed;
+             background-size: cover;
+            }
+        
+			  	  <meta charset="UTF-8" />
+			  	  <meta name="zajebal" />
+			  	  <title>Welcome to COURAGE</title>
+
+	  	</head>
+  	</style>
+
+  	<body style="background-color:black">
+  	
+	  	<center>
+		  	<img src="welctocourg.gif">
+	  	</center>
+	 
+	  <center>
+      <p style="font-size:32px; font-family:'Comic Sans MS'; color:black; margin: 30px;">We hope you'll enjoy your stay</p>
+   </center>
+
+    <center>
+      <div>
+        <a href="https://discord.gg/5DMS9S9UXT" style="font-size:18px; font-family:'Comic Sans MS';color: blue";>
+        <p> our discord server!</p>
+        </a>
+
+        <a href="rulez.html" style="font-size:18px; font-family:'Comic Sans MS'; color: red";>
+        <p>rulez</p>
+        </a>
+
+        <a href="url" style="font-size:18px; font-family:'Comic Sans MS'; color: green";>
+        <p>buy me coffee</p>
+        </a>
+        </div>
+      </center>
+
+      <div id="me">
+	  	 <center>
+        <p style="font-size:16px; font-family:'Comic Sans MS'; color:black";> for any questions, feel free to contact the owner on discord:
+        <a href="https://discord.com/users/371437418873880576" style="font-size:16px; font-family:'Comic Sans MS'; color:blue" class="rainbow-text-loop";>@waterjones</a>
+        </p>
+ 	  	</center>
+  	</div>	
+  	
+	 </body>
+  </html>
