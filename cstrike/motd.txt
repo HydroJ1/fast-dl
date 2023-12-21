@@ -1,11 +1,10 @@
 <!DOCTYPE HTML>
     <html>
         <head>
-            <body style="background-color:black">
                 <style>
 
                     body {
-             background-image: url('https://64.media.tumblr.com/3538fadbd87f81899b50e0d72c38acf2/tumblr_o8b8ixTvAg1vqpusto1_1280.gif');
+             background-image: url('http://art.teleportacia.org/observation/vernacular/stars/pusk.jpg');
              background-repeat: no-repeat;
              background-attachment: fixed;
              background-size: cover;
@@ -24,12 +23,13 @@
                 }
                 </style>
 
+                <body>
                     <center>
                         <p style="color:yellow; font-size:32px;">Welcome to our community!</p>
                     </center>
 
                     <center>
-                        <img src="courage.gif">
+                        <img src="courage.png">
                     </center>
 
                     <div>
