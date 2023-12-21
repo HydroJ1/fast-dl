@@ -1,6 +1,0 @@
-<!DOCTYPE HTML>
-<html>
-  <head>
-    <meta http-equiv="refresh" content="0; url='https://hydroj1.github.io/fast-dl/cstrike/motd.html'" />
-  </head>
-</html>
