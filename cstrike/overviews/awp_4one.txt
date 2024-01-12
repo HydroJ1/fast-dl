@@ -1,0 +1,14 @@
+// overview description file for awp_4one.bsp
+
+global 
+{
+	ZOOM	2.62
+	ORIGIN	0 	0	-248
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/awp_4one.bmp"
+	HEIGHT	-248
+}
