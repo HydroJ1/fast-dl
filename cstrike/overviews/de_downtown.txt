@@ -1,0 +1,14 @@
+// overview description file for de_downtown.bsp
+
+global 
+{
+	ZOOM	1.59
+	ORIGIN	700 	-276	-592
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/de_downtown.bmp"
+	HEIGHT	-592
+}
