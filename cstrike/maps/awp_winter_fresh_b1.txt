@@ -1,0 +1,13 @@
+▬▬▬▬▬▬▬▬▬▬▬▬MAIN INFO▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+Map				: awp_winter_fresh_b1
+Origin map		: awp_winter
+Author			: xZenon 
+▬▬▬▬▬▬▬▬▬▬▬▬CONTACTS▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+Steam			: Steamcommunity.com/id/xZenon
+Official Site	: xZenon-MAPS.INFO
+▬▬▬▬▬▬▬▬▬▬▬▬RESOURCES▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+Textures		: xZenon (Found in Internet)
+Sky				: 3D-Mike
+Models			: N/D
+Sounds			: Valve
+Sprites			: Valve

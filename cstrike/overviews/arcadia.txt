@@ -1,0 +1,14 @@
+ // overview description file for arcadia.bsp
+
+global 
+{
+	ZOOM	2.04
+	ORIGIN	32 	216	-32
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/arcadia.tga"
+	HEIGHT	-513
+}

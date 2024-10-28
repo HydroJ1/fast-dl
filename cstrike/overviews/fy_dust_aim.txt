@@ -1,0 +1,12 @@
+global 
+{
+	ZOOM	2.29
+	ORIGIN	0	768	-385
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/fy_dust_aim.bmp"
+	HEIGHT	-385
+}
