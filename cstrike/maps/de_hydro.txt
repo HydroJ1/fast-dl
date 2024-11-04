@@ -1,0 +1,19 @@
+Hydro - Bomb/Defuse
+by FreakyZoid (freaky.zoid@virgin.net)
+
+A terrorist faction is attempting to
+disable HFN's hyrdo-electric plant.
+
+Counter-Terrorists: Prevent Terrorists
+from bombing the main generator or the
+primary bridge. Team members must
+defuse any bombs that threaten targeted 
+areas.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy one of the targets. 
+
+Other Notes: There are 2 targets 
+in this mission. 
+
+(Press FIRE to continue)
