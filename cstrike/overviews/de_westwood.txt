@@ -9,7 +9,7 @@ global
 
 layer
 {
-	IMAGE "overviews/de_westwood.tga"
+	IMAGE "overviews/de_westwood.bmp"
 	HEIGHT	-369
 }
 
